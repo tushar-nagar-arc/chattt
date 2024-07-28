@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316019405619",
+    "project_id": "chatt-c3840",
+    "storage_bucket": "chatt-c3840.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316019405619:android:cfaa5823d3e86cdb2cc446",
+        "android_client_info": {
+          "package_name": "com.example.chatt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIP9UUqOEnnWYLC42HUs9K1P8qSesvnh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
